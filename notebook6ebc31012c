@@ -31,7 +31,7 @@
       "But I don't want ANY spam!\n",
       "Spam Spam Spam Spam \n"
      ]
-    }
+    } 
    ],
    "source": [
     "spam_amount = 0;\n",
